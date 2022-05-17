@@ -60,7 +60,6 @@ public class Naplata extends JFrame{
 			contentStream.endText();
 			contentStream.moveTo(0, 0);
 			
-			
 		}
 
 		
